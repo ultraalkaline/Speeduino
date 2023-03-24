@@ -26,3 +26,7 @@ fp-info-cache
 # *.csv
 
 .DS_Store
+
+# KiCad backup folders
+v0.4/SMD/Latest/v0.4.4c-backups/*
+v0.4/SMD/Latest/v0.4.4c-backups
